@@ -48,6 +48,14 @@
   max-height: 25vw;
 }
 
+#dog-button{
+  visibility: hidden;
+}
+
+#dog-id{
+  visibility: hidden;
+}
+
 body {
   margin: 0;
 }
